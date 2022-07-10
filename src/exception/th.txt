@@ -1,0 +1,56 @@
+Exception:
+		contiue programme stoped. unexpectdly
+		pls enter age 
+		int age  = sc.nextINt();
+		18 19
+		"eightwwn"
+		
+		10/2 10/0
+		
+Error:
+
+	syntax int a
+	for(;)
+	resolve -->
+	compile time...
+	
+	all errors are coming from Error class
+	
+	-------------------------------------------------------
+						Throwable
+						
+			Exception				  Error			
+			
+			      n of child			  no child class
+			      
+-----------------------------------------------------------------
+	2 Types of exception
+	
+	1)compile time exception	/checked exception
+	2)run time exception        /unchecked exceptoin
+
+-----------------------------------------------------------------
+
+
+How many ways to handle a exception
+2 ways
+
+try catch and finally block
+throws keyword
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+
+
+			      
+			
+			

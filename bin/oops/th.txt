@@ -1,0 +1,27 @@
+inheritance
+poly
+abst
+encapsulation
+
+class,object,const
+inheritance,encaps,abst
+overloading,overriding,data hiding
+---------------------------------------------------------------------------
+
+
+Inheritance:
+def:child class can use prop of parent class
+
+use:reusablity
+
+type:
+1)single
+2)multileve
+3)multypule
+4)hybride
+5)hyricial
+
+syntax:to achive inheritance in java we have to use extends keyword
+java does not support multypule inheriacnce  in c++ (:)
+
+
