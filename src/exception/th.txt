@@ -38,6 +38,12 @@ How many ways to handle a exception
 try catch and finally block
 throws keyword
 
+---------------------------------------------------------------
+
+if you are using any predefine or user define class whoese method or constructor is throwing exeption then
+implemented class has to handle that exception.....
+--------------
+custom exception
 
 
 

@@ -22,7 +22,7 @@ public class ExceptionDemo1 {
 
 		catch (ArithmeticException e) {
 
-			// e.printStackTrace();
+			 e.printStackTrace();
 			System.out.println("can not Divide by Zero");
 		} catch (InputMismatchException e) {
 			System.out.println("pls check your input...");
