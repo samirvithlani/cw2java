@@ -1,0 +1,21 @@
+/*
+
+	String s="java";  <<--
+	String s = new String("java")
+	
+		mutablity  -> modifications can be done with same reference
+		immbulatity ->modifications can not be done with same reference
+		
+		String is immutable
+		s1 = "java"
+		s2 ="java
+
+*/
+
+toUpperCase()
+toLowerCase()
+replace('','')
+replace("","")
+endsWith()
+startsWith()
+split

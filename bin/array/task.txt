@@ -1,0 +1,7 @@
+1)get data
+2)print data
+3)sum of an array
+
+
+return sum of an array from non static method..
+
