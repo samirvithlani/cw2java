@@ -1,0 +1,11 @@
+Pattern class
+Matcher class
+PatterSyntex Exception class
+MatchResult interface
+
+java.util.regex
+-----------
+compile
+matcher
+matches
+pattern
