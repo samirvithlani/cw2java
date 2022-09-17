@@ -1,0 +1,3 @@
+//email --> @ .com
+//url validate // https:// .com
+//+91 84602 224296
