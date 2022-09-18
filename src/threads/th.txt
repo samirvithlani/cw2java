@@ -1,0 +1,54 @@
+MULTI THREADING
+
+2 type of programming are there ...
+
+processbased programming...
+	
+	1 process complate -> 2 process
+	     :->
+
+thread based programming...
+
+	multipule start --> work
+	:->
+        :->
+
+-------------
+
+10 l -> 1 -> 2 ->3 --> 10 15 20
+
+10 -> l  2 3
+
+
+voting -->
+
+	windows 
+
+-------------------
+
+who will decide -->
+
+	cpu --> schedular -->
+
+------------------
+
+	threadSchedular -> JVM 
+-------------------
+
+-->	2 ways --> by implementing runnable interface --> run();
+-->	extend thread class
+----------------------------------
+main --> method it self is a thread...
+----------------------------------------
+
+LIFE CYCLE OF THREAD .....
+
+			        		new
+			
+					runnable stage
+							  non runnable /waiting stage
+					runnig stage
+	
+					terminate
+
+
