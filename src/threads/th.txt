@@ -51,4 +51,25 @@ LIFE CYCLE OF THREAD .....
 	
 					terminate
 
+syncronization
+
+
+locking conecpet
+
+shared resource ... 
+
+
+
+t1 --> lock
+t2
+t3
+
+2 ways
+1) synronized method
+2) syncronized block...
+
+
+
+
+
 
