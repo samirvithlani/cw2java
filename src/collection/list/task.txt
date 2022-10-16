@@ -1,0 +1,13 @@
+///list --> all methods
+//menu driven app
+
+
+//employee -->
+
+//addEMployee  user 
+//1 -> want to add more employee  --> 1 0
+//delete index name
+//update set
+//retrive all employee
+//retrive employee by index
+//retirive employee by name indexOf()
